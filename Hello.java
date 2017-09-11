@@ -15,6 +15,7 @@ public class Hello {
         // Gold Leader should add a print statement that says "Stabilize your rear deflectors... Watch for enemy fighters."
 
 	system.out.println("Stabilize your rear deflectors... Watch for enemy fighters.");
+	system.out.println("Cause problems");
 
     }
 
