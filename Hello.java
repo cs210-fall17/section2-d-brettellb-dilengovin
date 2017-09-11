@@ -14,16 +14,16 @@ public class Hello {
     	System.out.println("Lock S-foils in attack position");
         // Gold Leader should add a print statement that says "Stabilize your rear deflectors... Watch for enemy fighters."
 
-    	system.out.println("Stabilize your rear deflectors... Watch for enemy fighters.");
+    	System.out.println("Stabilize your rear deflectors... Watch for enemy fighters.");
     	System.out.println("I love CSC 210");
-	System.out.println("pls work");
+    	System.out.println("pls work");
     }
 
     public static void goldLeader() {
 
         // Gold Leader should add a print statement that says "Loosen up!"
 
-		system.out.println("Loosen up!");
+		System.out.println("Loosen up!");
     
 
     }
