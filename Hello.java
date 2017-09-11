@@ -14,7 +14,8 @@ public class Hello {
     	System.out.println("Lock S-foils in attack position");
         // Gold Leader should add a print statement that says "Stabilize your rear deflectors... Watch for enemy fighters."
 
-	system.out.println("Stabilize your rear deflectors... Watch for enemy fighters.");
+    	system.out.println("Stabilize your rear deflectors... Watch for enemy fighters.");
+    	System.out.println("I love CSC 210");
 
     }
 
